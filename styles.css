@@ -16,12 +16,20 @@ body {
   background-size: cover;
   }
 
-div.banner {
+div#home-banner {
   background-color: #9C27B0;
   width: 96vw;
   height: 10vh;
+  border-radius: 25px;
+  left: 2vw;
+  top: 87vh;
+}
+
+
+
+
+div.banner {
   position: fixed;
   top: 3vh;
-  left: 2vw;
-  border-radius: 25px;
+
 }
