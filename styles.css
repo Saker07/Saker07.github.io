@@ -4,4 +4,5 @@
   background-image: url("big_home.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
+  background-size: cover;
   }
