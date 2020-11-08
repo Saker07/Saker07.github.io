@@ -3,7 +3,7 @@ body {
   margin: 0px 0px 0px 0px;
 }
 
-.banner {
+div.banner {
   background-iamge: url("banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
