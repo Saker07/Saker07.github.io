@@ -17,13 +17,10 @@ body {
   }
 
 div.banner {
-  background-image: url("banner.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 80vw;
-  height: auto;
+  background-color: #9C27B0;
+  width: 96vw;
+  height: 10vh;
   position: fixed;
-  top: 5vh;
-  left: 10vw;
-  
+  top: 3vh;
+  left: 2vw;
 }
