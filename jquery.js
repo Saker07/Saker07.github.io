@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $(window).scroll(function(){
-    $('#header-inner').toggleClass('banner', $(window).scrollTop() > $('#header').offset().top);
+    $('#home-banner').toggleClass('banner', $(window).scrollTop() > $('#home-banner').offset().top);
   });
 });
