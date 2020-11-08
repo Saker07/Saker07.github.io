@@ -3,4 +3,5 @@
   height: 2000px;
   background-image: url("big_home.jpg");
   background-attachment: fixed;
+  background-repeat: no-repeat;
   }
