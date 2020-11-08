@@ -54,9 +54,11 @@ div.banner-small {
 
 .button {
   position: relative;
-  margin-left: 5%;
-  margin-right: 5%;
+  box-sizing: border-box;
+  width: 5%;
   height: 100%;
-  width: auto;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  text-align: center;
   background-color: #00FBFF;
 }
