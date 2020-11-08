@@ -41,6 +41,9 @@ div.banner-big {
 
 div.banner-small {
   position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
   top: 70%;
   left: 0px;
   width: 100%;
@@ -51,8 +54,8 @@ div.banner-small {
 
 .button {
   position: relative;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
   height: 100%;
   width: auto;
   background-color: #00FBFF;
