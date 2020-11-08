@@ -1,5 +1,6 @@
 #big-home {
   width: 100%;
+  height: 2000px
   background-image: url("big_home.jpg");
   background-attachment: fixed;
   }
