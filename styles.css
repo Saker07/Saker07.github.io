@@ -48,3 +48,12 @@ div.banner-small {
   border-radius: 0px 0px 25px 25px;
   background-color: #03B913;
 }
+
+.button {
+  position: absolute;
+  left-margin: 30px;
+  right-margin: 30px;
+  height: 100%;
+  width: auto;
+  background-color: #00FBFF;
+}
