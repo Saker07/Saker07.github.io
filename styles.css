@@ -23,4 +23,5 @@ div.banner {
   position: fixed;
   top: 3vh;
   left: 2vw;
+  border-radius: 25px;
 }
