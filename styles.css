@@ -4,8 +4,13 @@ body {
 }
 
 .banner {
+  background-iamge: url("banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80vw;
+  height: auto;
   position: fixed;
-  top: 10vh;
+  top: 5vh;
   left: 10vw;
   
 }
